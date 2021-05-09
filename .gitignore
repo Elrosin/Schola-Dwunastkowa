@@ -1,0 +1,12 @@
+#Plik roboczy układu strony głównej
+Struktura strony głównej.xcf
+
+#Plik testowy
+test.txt
+
+#Pliki, z których powstały potrzebne grafiki
+img/Ada.xcf
+img/hamburger.xcf
+img/logo.xcf
+img/mainphoto2.xcf
+img/scrollUp.xcf
